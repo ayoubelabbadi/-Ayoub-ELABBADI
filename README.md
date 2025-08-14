@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ayoubelabbadi?style=social)
 [![Email](https://img.shields.io/badge/Email-elabbadi--ayo%40upf.ac.ma-red?style=flat-square&logo=gmail&logoColor=white)](mailto:elabbadi-ayo@upf.ac.ma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub%20Elabbadi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayoubelabbadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub%20Elabbadi-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/ayoubelabbadi](https://www.linkedin.com/in/ayoub-elabbadi/))
 
 ---
 
